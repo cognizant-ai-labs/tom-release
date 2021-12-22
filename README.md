@@ -11,4 +11,4 @@ python train_concentric_hyperspheres.py
 
 The script is applied to the Concentric Hyperspheres problem, where TOM has shown the most striking advantage over alternative methods.
 
-This code was developed with Python version 3.7.12.
+This code was developed with Python version 3.7.12. See `requirements.txt` for the full python environment, and run `pip install -r requirements.txt` to install.
