@@ -1,6 +1,6 @@
 # TOM
 
-This repository contains an implementation of the model introduced in [The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings](https://arxiv.org/abs/2010.02354), published with a spotlight presentation at ICLR 2021.
+This repository contains an implementation of the model introduced in [The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings](https://arxiv.org/abs/2010.02354), published with a spotlight presentation at ICLR 2021. Spotlight presentation: https://iclr.cc/virtual/2021/poster/3007.
 
 The model is defined at `traveling_observer_model.py`.
 
