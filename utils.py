@@ -1,10 +1,14 @@
-#
-# Common utility functions for TOM experiments
-#
+# Copyright (c) 2021 Cognizant Digital Business, Cognizant AI Labs
+# Issued under this Academic Public License: github.com/cognizant-ai-labs/tom-release/LICENSE.
+
+"""
+Utility functions for TOM experiments
+"""
 
 import numpy as np
 import pandas as pd
 import torch
+
 
 
 def load_dataset(path):

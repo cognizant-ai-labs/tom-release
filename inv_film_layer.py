@@ -1,3 +1,6 @@
+# Copyright (c) 2021 Cognizant Digital Business, Cognizant AI Labs
+# Issued under this Academic Public License: github.com/cognizant-ai-labs/tom-release/LICENSE.
+
 """
 Class for Inverted VE FiLM layer (used in decoder),
 implemented using Conv1D for efficient parallel processing.

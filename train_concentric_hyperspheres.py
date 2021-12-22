@@ -1,6 +1,9 @@
-#
-# Script for training concentric hyperspheres (ch) universe
-#
+# Copyright (c) 2021 Cognizant Digital Business, Cognizant AI Labs
+# Issued under this Academic Public License: github.com/cognizant-ai-labs/tom-release/LICENSE.
+
+"""
+Script for training concentric hyperspheres (ch) universe
+"""
 
 import argparse
 import os
